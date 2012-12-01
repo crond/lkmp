@@ -1,0 +1,1 @@
+cmd_/home/slacker/audacious/lkmp/2/lkmp.ko := ld -r -m elf_i386 -T /usr/src/linux-2.6.37.6/scripts/module-common.lds --build-id  -o /home/slacker/audacious/lkmp/2/lkmp.ko /home/slacker/audacious/lkmp/2/lkmp.o /home/slacker/audacious/lkmp/2/lkmp.mod.o
